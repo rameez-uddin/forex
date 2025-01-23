@@ -1,0 +1,7 @@
+stop loss hunting and liquidity sweep are very attached to sessions highs and lows
+
+must mark the sessions. dirc and indirec linked with the stratergy
+
+also linked with discounted and higher prices                                             
+session highs and lows:
+ 
